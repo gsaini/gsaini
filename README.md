@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Gopal Saini
+# Hi 👋, I'm Gopal Saini
 
 ![](https://komarev.com/ghpvc/?username=gsaini&abbreviated=true)
 
@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm passionate about **scalable architecture, inte
 ![Gopal's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsaini&show_icons=true&theme=radical)
 
 ## 📌 Pinned Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gsaini&repo=your-repo-name)](https://github.com/gsaini/ai-playgrounds)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gsaini&repo=ai-playgrounds)](https://github.com/gsaini/ai-playgrounds)  
 
 ## 📫 Let's Connect!
 - [LinkedIn](https://linkedin.com/in/gopal-saini)
