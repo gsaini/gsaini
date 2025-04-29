@@ -12,9 +12,9 @@ Welcome to my GitHub profile! I'm passionate about **scalable architecture, inte
 - 📫 How to reach me: **gopal.saini.work@gmail.com**
 
 ## 🛠️ Technologies & Tools
-- **Languages:** JavaScript, TypeScript, Python, SQL
-- **Frameworks & Libraries:** React, Node.js, Express, GraphQL, Angular, Loopback, Flask, Django, Streamlit
-- **AI/ML:** AI Agents, LangChain, MCP (Model Control Platform), vector DBs (FAISS, Pinecone)
+- **Languages:** JavaScript, TypeScript, NodeJS, Python
+- **Frameworks & Libraries:** React, Node.js, Express, GraphQL, Angular, Loopback, Flask, Django, Streamlit, Pandas, NumPy, Ski
+- **AI/ML:** AI Agents, LangChain, MCP (Model Control Platform), Ollama Module, Embeddings, Transformers, vector DBs, Google - ADK, Vertex AI, Generative AI
 - **Cloud & DevOps:** AWS (Certified Solutions Architect, ML & DevOps), Azure DevOps, GitHub Actions, Docker, Kubernetes, GitLab CI
 - **Tools:** Nx, Vite, Webpack, Storybook, Applitools, Splunk, Segment, Braze
 
