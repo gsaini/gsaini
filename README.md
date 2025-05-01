@@ -34,5 +34,6 @@ Welcome to my GitHub profile! I'm passionate about **scalable architecture, inte
 - [LinkedIn](https://linkedin.com/in/gopal-saini)
 - [Portfolio](https://gopalsaini.co.in)
 - [X](https://x.com/saini_gopal)
+- [Credly](https://www.credly.com/users/gsaini)
 
 Thanks for visiting my profile! 😊
