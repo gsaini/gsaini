@@ -22,7 +22,13 @@ Welcome to my GitHub profile! I'm passionate about **scalable architecture, inte
 ![Gopal's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsaini&show_icons=true&theme=radical)
 
 ## 📌 Pinned Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gsaini&repo=ai-playgrounds)](https://github.com/gsaini/ai-playgrounds)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gsaini&repo=ai-playgrounds)](https://github.com/gsaini/ai-playgrounds)
+
+## Certifications
+![](https://images.credly.com/size/120x120/images/1a634b4e-3d6b-4a74-b118-c0dcb429e8d2/image.png)
+![](https://images.credly.com/size/120x120/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png)
+![](https://images.credly.com/size/120x120/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png)
+![](https://images.credly.com/size/120x120/images/4a63411a-34d9-47df-92ce-5b4dec53b0bd/image.png)
 
 ## 📫 Let's Connect!
 - [LinkedIn](https://linkedin.com/in/gopal-saini)
