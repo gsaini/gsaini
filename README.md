@@ -1,6 +1,8 @@
 # Hi 👋, I'm Gopal Saini
 
 ![](https://komarev.com/ghpvc/?username=gsaini&abbreviated=true)
+[![GitHub gsaini](https://img.shields.io/github/followers/gsaini?label=follow&style=social)](https://github.com/gsaini)
+
 
 Welcome to my GitHub profile! I'm passionate about **scalable architecture, intelligent systems, and creating seamless user experiences**. I love working on **AI-driven solutions, full-stack applications, and modern engineering workflows**. Here's a little about me:
 
