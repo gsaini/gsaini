@@ -3,7 +3,6 @@
 ![](https://komarev.com/ghpvc/?username=gsaini&abbreviated=true)
 [![GitHub gsaini](https://img.shields.io/github/followers/gsaini?label=follow&style=social)](https://github.com/gsaini)
 
-
 Welcome to my GitHub profile! I'm passionate about **scalable architecture, intelligent systems, and creating seamless user experiences**. I love working on **AI-driven solutions, full-stack applications, and modern engineering workflows**. Here's a little about me:
 
 ## 🌟 About Me
@@ -14,11 +13,11 @@ Welcome to my GitHub profile! I'm passionate about **scalable architecture, inte
 - 📫 How to reach me: **gopal.saini.work@gmail.com**
 
 ## 🛠️ Technologies & Tools
-- **Languages:** JavaScript, TypeScript, NodeJS, Python
+- **Languages:** Python, JavaScript, TypeScript, NodeJS
 - **Frameworks & Libraries:** React, Node.js, Express, GraphQL, Angular, Loopback, Flask, Django, Streamlit, Pandas, NumPy, Scikit-Learn
-- **AI/ML:** AI Agents, LangChain, MCP (Model Control Platform), Ollama Module, Embeddings, Transformers, Natural Language Processing (NLP), Large Language Model (LLM) vector DBs, Google - ADK, Vertex AI, Generative AI, Computer Vision.
+- **AI/ML:** AI Agents, LangChain, MCP (Model Control Platform), Ollama Module, Embeddings, Transformers, Natural Language Processing (NLP), Large Language Model (LLM), Vector DBs, Google - ADK, Vertex AI, Generative AI, Computer Vision.
 - **Cloud & DevOps:** AWS (Certified Solutions Architect, ML & DevOps), Google Cloud Platform, Azure, GitHub Actions, Docker, Kubernetes, GitLab CI
-- **Tools:** Nx, Vite, Webpack, Storybook, Applitools, Splunk, Segment, Braze
+- **Tools:** Google Colab, Nx, Vite, Webpack, Storybook, Applitools, Splunk, Segment, Braze
 
 ## 📈 GitHub Stats
 ![Gopal's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsaini&show_icons=true&theme=radical)
