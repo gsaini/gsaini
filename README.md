@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm passionate about **scalable architecture, inte
 - 🔭 I’m currently working on **building intelligent agents and AI-integrated web platforms using LLMs and cloud-native architectures**
 - 🌱 I’m currently learning **advanced AI/ML frameworks, vector databases, and GenAI orchestration tools**
 - 👯 I’m looking to collaborate on **AI-based products, full-stack SaaS platforms, and open-source dev tools**
-- 💬 Ask me about **frontend architecture, microservices, DevOps on AWS, and integrating AI into real-world apps**
+- 💬 Ask me about **integrating AI, DevOps on AWS, micro-services and frontend architecture into real-world apps**
 - 📫 How to reach me: **gopal.saini.work@gmail.com**
 
 ## 🛠️ Technologies & Tools
