@@ -32,7 +32,9 @@ Welcome to my GitHub profile! I'm passionate about **scalable architecture, inte
 ## Certifications
 
 <p>
-  <img src="https://s3.amazonaws.com/vrfy.digital/cache/ptxapyju.jpg" alt="Post Graduate Certification" width="120" height="120" style="margin-right: 10px;" />
+  <a href="https://vrfy.digital/ptxapyju" target="_blank">
+    <img src="https://s3.amazonaws.com/vrfy.digital/cache/ptxapyju.jpg" alt="Post Graduate Certification" width="180" height="120" style="margin-right: 10px;" />
+  </a>
   <img src="https://images.credly.com/size/120x120/images/1a634b4e-3d6b-4a74-b118-c0dcb429e8d2/image.png" alt="AWS Certified Solutions Architect" width="120" height="120" style="margin-right: 10px;" />
   <img src="https://images.credly.com/size/120x120/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" alt="AWS Certified Machine Learning Specialty" width="120" height="120" style="margin-right: 10px;" />
   <img src="https://images.credly.com/size/120x120/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" alt="AWS Certified DevOps Engineer Professional" width="120" height="120" style="margin-right: 10px;" />
