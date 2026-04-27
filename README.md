@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm passionate about **scalable architecture, inte
 - **Frameworks & Libraries:** React, Node.js, Express, GraphQL, Angular, Loopback, Flask, Django, Streamlit, Pandas, NumPy, Scikit-Learn, TensorFlow
 - **AI/ML:** AI Agents, LangChain, MCP (Model Control Platform), Ollama Module, Embeddings, Transformers, Natural Language Processing (NLP), Large Language Model (LLM), Vector DBs, Google - ADK, Vertex AI, Generative AI, Computer Vision - Image Processing & CNN.
 - **Cloud & DevOps:** AWS (Certified Solutions Architect, ML & DevOps), Google Cloud Platform, Azure, GitHub Actions, Docker, Kubernetes, GitLab CI
-- **Tools:** Google Colab, Nx, Vite, Webpack, Storybook, Applitools, Splunk, Segment, Braze
+- **Tools:** Google Colab, Nx, Vite, Webpack, Storybook, Applitools, Splunk, Segment, Braze, Helm, Flyway
 
 ## 📈 GitHub Stats
 
