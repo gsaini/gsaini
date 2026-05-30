@@ -110,6 +110,14 @@
   <img src="https://github-profile-trophy.vercel.app/?username=gsaini&theme=radical&no-frame=true&column=7&margin-w=10" alt="Trophies"/>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gsaini/gsaini/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gsaini/gsaini/output/github-snake.svg"/>
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/gsaini/gsaini/output/github-snake.svg"/>
+  </picture>
+</p>
+
 ---
 
 ## 🎓 Certifications
